@@ -1,0 +1,20 @@
+{
+  "name": "44563-mod4hw1",
+  "version": "1.0.0",
+  "description": "Simple server for website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorbeshears/44563-Mod4HW1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connorbeshears/44563-Mod4HW1/issues"
+  },
+  "homepage": "https://github.com/connorbeshears/44563-Mod4HW1#readme"
+}
